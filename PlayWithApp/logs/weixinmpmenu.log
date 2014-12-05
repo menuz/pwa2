@@ -1,0 +1,4 @@
+[INFO ] 2014-11-07 19:51:44,353   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
+[ERROR] 2014-11-07 20:05:50,421    com.lovebar.weixin.util.WeiXinUtil     - 创建菜单失败 errcode:-1 errmsg:system error
+[INFO ] 2014-11-07 20:05:50,425   com.lovebar.weixin.main.MenuManager     - 菜单创建失败，错误码：-1
+[INFO ] 2014-11-07 20:06:30,868   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！

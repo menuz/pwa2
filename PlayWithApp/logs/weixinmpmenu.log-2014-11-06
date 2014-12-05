@@ -1,0 +1,17 @@
+[INFO ] 2014-11-06 15:30:15,467   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2014-11-06 15:34:43,005   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2014-11-06 15:35:59,713   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
+[ERROR] 2014-11-06 20:36:09,212    com.lovebar.weixin.util.WeiXinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size
+[INFO ] 2014-11-06 20:36:09,216   com.lovebar.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+[INFO ] 2014-11-06 20:36:47,882   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
+[ERROR] 2014-11-06 20:39:29,260    com.lovebar.weixin.util.WeiXinUtil     - 创建菜单失败 errcode:40054 errmsg:invalid sub button url domain
+[INFO ] 2014-11-06 20:39:29,264   com.lovebar.weixin.main.MenuManager     - 菜单创建失败，错误码：40054
+[ERROR] 2014-11-06 20:39:54,234    com.lovebar.weixin.util.WeiXinUtil     - 创建菜单失败 errcode:40054 errmsg:invalid sub button url domain
+[INFO ] 2014-11-06 20:39:54,237   com.lovebar.weixin.main.MenuManager     - 菜单创建失败，错误码：40054
+[INFO ] 2014-11-06 20:40:15,338   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2014-11-06 21:05:15,879   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
+[ERROR] 2014-11-06 22:32:03,368    com.lovebar.weixin.util.WeiXinUtil     - 创建菜单失败 errcode:-1 errmsg:system error
+[INFO ] 2014-11-06 22:32:03,372   com.lovebar.weixin.main.MenuManager     - 菜单创建失败，错误码：-1
+[ERROR] 2014-11-06 22:33:15,406    com.lovebar.weixin.util.WeiXinUtil     - 创建菜单失败 errcode:-1 errmsg:system error
+[INFO ] 2014-11-06 22:33:15,408   com.lovebar.weixin.main.MenuManager     - 菜单创建失败，错误码：-1
+[INFO ] 2014-11-06 22:34:15,903   com.lovebar.weixin.main.MenuManager     - 菜单创建成功！
